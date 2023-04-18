@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "slab",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.4.8",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/tokio-rs/slab",
+    "Description": "Pre-allocated storage for a uniform data type."
+  }
+]
